@@ -1,0 +1,176 @@
+[{
+	"ID": "1",
+	"Sigla": "MDB",
+	"Nome": "Movimento Democrático Brasileiro"
+},
+     {
+	"ID": "2",
+	"Sigla": "PTB",
+	"Nome": "Partido Trabalhista Brasileiro"
+},
+	{
+	"ID": "3",
+	"Sigla": "PDT",
+	"Nome": "Partido Democrático Trabalhista"
+},
+     {
+	"ID": "4",
+	"Sigla": "PT",
+	"Nome": "Partido dos Trabalhadores"
+},
+     {
+	"ID": "5",
+	"Sigla": "DEM",
+	"Nome": "Democratas"
+},
+     {
+	"ID": "6",
+	"Sigla": "PCdoB",
+	"Nome": "Partido Comunista do Brasil"
+},
+     {
+	"ID": "7",
+	"Sigla": "PSB",
+	"Nome": "Partido Socialista Brasileiro"
+},
+     {
+	"ID": "8",
+	"Sigla": "PSDB",
+	"Nome": "Partido da Social Democracia Brasileira"
+},
+     {
+	"ID": "9",
+	"Sigla": "PTC",
+	"Nome": "Partido Trabalhista Cristão"
+},
+     {
+	"ID": "10",
+	"Sigla": "PSC",
+	"Nome": "Partido Social Cristão"
+},
+     {
+	"ID": "11",
+	"Sigla": "PMN",
+	"Nome": "Partido da Mobilização Nacional"
+},
+     {
+	"ID": "12",
+	"Sigla": "PRP",
+	"Nome": "Partido Republicano Progressista"
+},
+     {
+	"ID": "13",
+	"Sigla": "PPS",
+	"Nome": "Partido Popular Socialista"
+},
+     {
+	"ID": "14",
+	"Sigla": "PV",
+	"Nome": "Partido Verde"
+},
+     {
+	"ID": "15",
+	"Sigla": "AVANTE",
+	"Nome": "Avante"
+},
+     {
+	"ID": "16",
+	"Sigla": "PP",
+	"Nome": "Partido Progressista"
+},
+     {
+	"ID": "17",
+	"Sigla": "PSTU",
+	"Nome": "Partido Socialista dos Trabalhadores Unificado"
+},
+     {
+	"ID": "18",
+	"Sigla": "PCB",
+	"Nome": "Partido Comunista Brasileiro"
+},
+     {
+	"ID": "19",
+	"Sigla": "PRTB",
+	"Nome": "Partido Renovador Trabalhista Brasileiro"
+},
+     {
+	"ID": "20",
+	"Sigla": "PHS",
+	"Nome": "Partido Humanista da Solidariedade"
+},
+     {
+	"ID": "21",
+	"Sigla": "PSDC",
+	"Nome": "Partido Social Democrata Cristão"
+},
+     {
+	"ID": "22",
+	"Sigla": "PCO",
+	"Nome": "Partido da Causa Operária"
+},
+     {
+	"ID": "23",
+	"Sigla": "PODE",
+	"Nome": "Podemos"
+},
+     {
+	"ID": "24",
+	"Sigla": "PSL",
+	"Nome": "Partido Social Liberal"
+},
+     {
+	"ID": "25",
+	"Sigla": "PRB",
+	"Nome": "Partido Republicano Brasileiro"
+},
+     {
+	"ID": "26",
+	"Sigla": "PSOL",
+	"Nome": "Partido Socialismo e Liberdade"
+},
+     {
+	"ID": "27",
+	"Sigla": "PR",
+	"Nome": "Partido da República"
+},
+     {
+	"ID": "28",
+	"Sigla": "PSD",
+	"Nome": "Partido Social Democrático"
+},
+    {
+   	"ID": "29",
+    "Sigla": "PPL",
+    "Nome": "Partido Pátria Livre"
+},
+    {
+    "ID": "30",
+    "Sigla": "PEN",
+    "Nome": "Partido Ecológico Nacional"
+},
+    {
+    "ID": "31",
+    "Sigla": "PROS",
+    "Nome": "Partido Republicano da Ordem Social"
+},
+    {
+    "ID": "32",
+    "Sigla": "SD",
+    "Nome": "Solidariedade"
+},
+    {
+    "ID": "33",
+    "Sigla": "NOVO",
+    "Nome": "Partido Novo"
+},
+    {
+    "ID": "34",
+    "Sigla": "REDE",
+    "Nome": "Rede Sustentabilidade"
+},
+    {
+    "ID": "35",
+    "Sigla": "PMB",
+    "Nome": "Partido da Mulher Brasileira"
+
+}]
